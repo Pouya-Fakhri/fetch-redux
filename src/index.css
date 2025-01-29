@@ -12,6 +12,18 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.post{
+  width: 300px;
+  background-color: #646cff;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.postList{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 a {
   font-weight: 500;
